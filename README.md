@@ -7,4 +7,4 @@
 Untuk meng-clone repository ini dan langsung memberikan izin eksekusi pada semua skrip `.sh`, jalankan perintah berikut:
 
 ```bash
-git clone https://github.com/rizalBee77/Tmux && cd TmuxManager && chmod +x *.sh
+git clone https://github.com/rizalBee77/Tmux && cd Tmux && chmod +x *.sh
